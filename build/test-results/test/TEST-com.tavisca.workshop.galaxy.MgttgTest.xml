@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tavisca.workshop.galaxy.MgttgTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-08-13T11:24:31" hostname="RENTLAPT0020" time="0.097">
+  <properties/>
+  <testcase name="ConversionOfRomanToInteger()" classname="com.tavisca.workshop.galaxy.MgttgTest" time="0.033"/>
+  <testcase name="RomanToIntegerSumCalculator()" classname="com.tavisca.workshop.galaxy.MgttgTest" time="0.002"/>
+  <testcase name="CanSplitWordsMissingItemsAndCredits()" classname="com.tavisca.workshop.galaxy.MgttgTest" time="0.017"/>
+  <testcase name="CanSplitWordAndRoman()" classname="com.tavisca.workshop.galaxy.MgttgTest" time="0.002"/>
+  <testcase name="ConversionOfWordToRoman()" classname="com.tavisca.workshop.galaxy.MgttgTest" time="0.004"/>
+  <testcase name="CalculatingMissingItemValue()" classname="com.tavisca.workshop.galaxy.MgttgTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
