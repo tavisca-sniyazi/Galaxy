@@ -6,7 +6,7 @@ public class RomanToIntegerParse {
 
 
     private static HashMap<Character, Integer> change
-            =new HashMap<>(){{
+            =new HashMap<Character, Integer>(){{
         put('I',1);
         put('V',5);
         put('X',10);
